@@ -2,7 +2,6 @@
 title: "MY-TITLE"
 date: 2022-03-21
 ---
-title: Edit title
 author: ShinoKana
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
